@@ -4,3 +4,6 @@
 [submodule "Probe-CDH"]
 	path = Probe-CDH
 	url = https://github.com/zenitheesc/Probe-CDH
+[submodule "Probe-EPS"]
+	path = Probe-EPS
+	url = https://github.com/zenitheesc/Probe-EPS
