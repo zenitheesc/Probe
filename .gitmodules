@@ -1,3 +1,6 @@
 [submodule "Probe-RAS"]
 	path = Probe-RAS
 	url = https://github.com/zenitheesc/Probe-RAS
+[submodule "Probe-CDH"]
+	path = Probe-CDH
+	url = https://github.com/zenitheesc/Probe-CDH
