@@ -7,3 +7,6 @@
 [submodule "Probe-EPS"]
 	path = Probe-EPS
 	url = https://github.com/zenitheesc/Probe-EPS
+[submodule "Probe-OBC"]
+	path = Probe-OBC
+	url = https://github.com/zenitheesc/Probe-OBC
